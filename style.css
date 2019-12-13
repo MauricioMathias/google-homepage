@@ -1,16 +1,11 @@
-header {
-    margin-left: 1100px;
-
-}
-
 .principal{
     padding-top: 140px;
-    margin-left: 555px;
 }
 
 .search-bar {
     width: 33%;
     display: block;
+    margin-left: 555px;
 }
 
 .button {
