@@ -1,10 +1,13 @@
+header {
+    align-content: right;
+}
+
 .principal{
     padding-top: 250px;
-    padding-bottom: auto;
     margin-left: 200px;
-    margin-right: 50px;
 }
 
 .search-bar {
     display: block;
 }
+
