@@ -1,13 +1,19 @@
 header {
-    align-content: right;
+    margin-left: 1100px;
+
 }
 
 .principal{
-    padding-top: 250px;
-    margin-left: 200px;
+    padding-top: 140px;
+    margin-left: 555px;
 }
 
 .search-bar {
+    width: 33%;
     display: block;
+}
+
+.button {
+    padding: 10px 10px 10px 10px;
 }
 
