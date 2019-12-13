@@ -1,3 +1,10 @@
-.principal {
-    margin: auto;
+.principal{
+    padding-top: 250px;
+    padding-bottom: auto;
+}
+
+.search-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
