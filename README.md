@@ -1,0 +1,1 @@
+Nesse projeto irei recriar a pagina principal do google seguindo as instruçoes passadas pelo The Odin Project (http://www.theodinproject.com/courses/web-development-101/lessons/html-css).
