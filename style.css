@@ -47,7 +47,9 @@ a {
 .search-bar {
     display: block;
     margin: auto;
-    width: 25%;
+    width: 33%;
+    border-radius: 50px;
+    height: 30px;
 }
 
 .button-search {
