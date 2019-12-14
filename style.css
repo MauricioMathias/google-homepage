@@ -1,14 +1,44 @@
-.principal{
+.gmail {
+    position: absolute;
+    right: 180px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.images {
+    position: absolute;
+    right: 100px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.singin {
+    position: absolute;
+    right: 20px;
+}
+
+.principal { 
     padding-top: 140px;
 }
 
-.search-bar {
-    width: 33%;
+.logo {
     display: block;
-    margin-left: 555px;
+    margin: auto;
 }
 
-.button {
+.search-bar {
+    display: block;
+    margin: auto;
+    width: 25%;
+}
+
+.button-search {
     padding: 10px 10px 10px 10px;
+    display: ;
+    margin: auto;
+}
+
+.button-lucky {
+
 }
 
