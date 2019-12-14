@@ -72,17 +72,3 @@ a {
     border-radius: 4px;
     border-style: hidden;
 }
-
-.button-lucky {
-    padding: 10px 10px 10px 10px;
-    width: 130px;
-    border-radius: 4px;
-}
-
-.button-search {
-    padding: 10px 10px 10px 10px;
-    margin-left: 510px;
-    margin-right: 50px;
-    border-radius: 4px;
-    width: 130px;
-}
